@@ -118,7 +118,7 @@ alias lt="exa -T"
 # https://harshithashok.com/linux/best-zsh-themes/ 
 # https://starship.rs/guide/#%F0%9F%9A%80-installation
 eval "$(starship init zsh)"
-neofetch
+neofetch --config $HOME/.config/neofetch/simon-config.conf
 
 # tldr: he tldr-pages project is a collection of community-maintained help pages for # command-line tools, that aims to be a simpler, more approachable complement to # traditional man pages.0
 # iterm2 color schema: https://github.com/mbadolato/iTerm2-Color-Schemes
