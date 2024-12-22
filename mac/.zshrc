@@ -124,3 +124,12 @@ neofetch
 
 # tldr: he tldr-pages project is a collection of community-maintained help pages for # command-line tools, that aims to be a simpler, more approachable complement to # traditional man pages.0
 # iterm2 color schema: https://github.com/mbadolato/iTerm2-Color-Schemes
+
+# sonar qube
+export SONAR_JAVA_PATH=/Users/simon/Library/Java/JavaVirtualMachines/openjdk-17.0.2/Contents/Home/bin/java
+export JAVA_HOME=/Users/simon/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home
+
+# nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"
+[ -s "/usr/local/opt/nvm/etc/bash_completion" ] && \. "/usr/local/opt/nvm/etc/bash_completion"
